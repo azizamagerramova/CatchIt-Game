@@ -14,13 +14,13 @@ public class kittyMove : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		Vector2 direction;
+		direction.y = Input.GetAxis("Horizontal");
 		direction.x = Input.GetAxis("Vertical");
-		direction.y = Input.GetAxis("Vertical");
 
 		// scale by the maxSpeed parameter
 		Vector2 velocity = direction * maxSpeed;
 
 		// move the object
-		transform.Translate(velocity * Time.deltaTime);
+		transform.Translate(velocity * Time.deltaTime, Space.World);
 	}
 }
