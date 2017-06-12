@@ -1,0 +1,13 @@
+# =================================== #
+# Created by Kajaman's Road Generator #
+# =================================== #
+newmtl Mat0
+illum 2
+d 1
+map_Ka Mesh06256.png
+map_Kd Mesh06256.png
+newmtl Mat1
+illum 2
+d 1
+map_Ka Guardrails01.png
+map_Kd Guardrails01.png

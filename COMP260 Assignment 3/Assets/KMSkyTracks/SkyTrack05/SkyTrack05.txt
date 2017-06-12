@@ -1,0 +1,20 @@
+ST05 – Sky Track 05 - The Over and Under
+
+It is RACE TIME!!!
+
+If you‘re scared of height, don’t look down. Racing has just got that litle bit more dangerous... 
+See-through road surface. 
+2327 meters long track with combination of nicely flowing cornes. 
+A lot of elevation changes. Track is going over and uder. 
+Optimized for the best combination of smooth corners and low polygon numbers.
+3516 vertices and 3360 triangles.
+Distance boards before the corners to help you judge the braking point accurately.
+Rally style turn boards indicating the direction and sharpness (4 levels – green to red) of upcoming turns. Learning of a new track is going to become easier than ever before.
+Sharp curbs will make you pay for cutting the corners too much.
+Starting grid and finish line. Time to race!
+All features (boards, grids) are separate meshes. You can easily customize the track by removing them.
+Long "legs" as separate objects included. Move them where you want and "stick" the whole track into your terrain, clouds or whatever you want. Remove them if you have flying islands for support :) 
+Made by Kajaman
+
+Get more here
+https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:18481
