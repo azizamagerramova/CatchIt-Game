@@ -1,16 +1,7 @@
 fileFormatVersion: 2
 guid: ec983746567805b4ca160e977145d61f
-labels:
-- road
-- roads
-- kajaman
-- race
-- car
-- rally
-- racecar
-- skytrack
-timeCreated: 1467107490
-licenseType: Store
+timeCreated: 1497526572
+licenseType: Free
 DefaultImporter:
   userData: 
   assetBundleName: 
